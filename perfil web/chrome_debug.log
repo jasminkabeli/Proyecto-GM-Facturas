@@ -1,0 +1,132 @@
+[32124:35944:0604/000127.559:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 125.0.6422.114 (not a warning)
+[32124:35944:0604/000127.606:INFO:chrome_browser_cloud_management_controller.cc(168)] Starting CBCM Controller Initialization
+[32124:35944:0604/000127.606:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[32124:35944:0604/000127.637:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000127.637:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000127.637:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000127.637:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000127.637:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000127.684:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[32124:35944:0604/000127.684:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000127.684:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000127.684:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000127.684:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000127.684:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000127.684:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000127.684:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000127.684:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000127.793:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000127.793:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000127.793:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000127.841:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000127.841:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000128.043:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000128.043:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000128.090:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000128.090:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000128.121:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000128.121:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000128.121:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000128.121:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000128.121:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000128.315:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000128.315:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000128.326:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000128.326:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000128.358:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000128.444:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[33524:8864:0604/000128.590:INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+[32124:35944:0604/000128.941:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000128.941:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000128.948:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://homer.sii.cl/ (0)
+[32124:35944:0604/000128.948:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://homer.sii.cl/ (0)
+[32124:35944:0604/000128.953:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://homer.sii.cl/ (0)
+[32124:35944:0604/000129.009:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000129.225:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000129.227:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://homer.sii.cl/ (0)
+[32124:35944:0604/000129.339:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://homer.sii.cl/ (0)
+[32124:35944:0604/000129.339:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://homer.sii.cl/ (0)
+[32124:35944:0604/000129.434:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000129.434:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000129.450:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[30712:9744:0604/000129.574:WARNING:spdy_session.cc(2979)] Received HEADERS for invalid stream 3
+[32124:35944:0604/000129.642:INFO:CONSOLE(2)] "Uncaught Error: Syntax error, unrecognized expression: #line/", source: https://www.sii.cl/responsive/js/general.js (2)
+[32124:35944:0604/000129.822:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000129.822:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000129.826:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.sii.cl/servicios_online/ (0)
+[32124:35944:0604/000129.826:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.sii.cl/servicios_online/ (0)
+[32124:35944:0604/000129.826:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.sii.cl/servicios_online/ (0)
+[32124:35944:0604/000129.884:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000129.884:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.sii.cl/servicios_online/ (0)
+[32124:35944:0604/000129.992:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.sii.cl/servicios_online/ (0)
+[32124:35944:0604/000129.992:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.sii.cl/servicios_online/ (0)
+[32124:35944:0604/000130.224:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000130.224:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000130.224:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.sii.cl/servicios_online/ (0)
+[32124:35944:0604/000130.224:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.sii.cl/servicios_online/ (0)
+[32124:35944:0604/000130.224:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.sii.cl/servicios_online/ (0)
+[32124:35944:0604/000130.224:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.sii.cl/servicios_online/ (0)
+[32124:35944:0604/000130.224:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.sii.cl/servicios_online/ (0)
+[32124:35944:0604/000130.224:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.sii.cl/servicios_online/ (0)
+[32124:35944:0604/000130.224:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.sii.cl/servicios_online/ (0)
+[32124:35944:0604/000130.304:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000130.796:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000130.796:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000130.799:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000130.847:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000131.368:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000131.368:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000131.410:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000131.465:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000131.465:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000131.467:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000132.094:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000132.094:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000132.137:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000132.274:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://zeusr.sii.cl/AUT2000/InicioAutenticacion/IngresoRutClave.html?https://www4.sii.cl/consdcvinternetui/ (0)
+[32124:35944:0604/000133.157:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000133.157:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000133.157:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000133.157:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000133.568:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000133.568:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000133.727:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000133.807:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000134.196:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000134.196:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000134.293:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000134.380:INFO:CONSOLE(129)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www4.sii.cl/consdcvinternetui/ (129)
+[32124:35944:0604/000134.492:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000134.492:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000134.517:INFO:CONSOLE(10)] "--96564810--", source: https://www4.sii.cl/consdcvinternetui/app.full.min.js?20242281610.js (10)
+[32124:35944:0604/000134.565:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000134.581:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000134.589:INFO:CONSOLE(10)] "--sdi.lob.diii.consdcv.loaded undefined", source: https://www4.sii.cl/consdcvinternetui/app.full.min.js?20242281610.js (10)
+[32124:35944:0604/000134.593:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www4.sii.cl/consdcvinternetui/#/index (0)
+[32124:35944:0604/000134.662:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www4.sii.cl/consdcvinternetui/#/index (0)
+[32124:35944:0604/000134.670:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000134.670:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000134.696:INFO:CONSOLE(10)] "r: 200", source: https://www4.sii.cl/consdcvinternetui/app.full.min.js?20242281610.js (10)
+[32124:35944:0604/000134.697:INFO:CONSOLE(10)] "s/p ", source: https://www4.sii.cl/consdcvinternetui/app.full.min.js?20242281610.js (10)
+[32124:35944:0604/000134.961:INFO:CONSOLE(10)] "r: 200", source: https://www4.sii.cl/consdcvinternetui/app.full.min.js?20242281610.js (10)
+[32124:35944:0604/000138.241:INFO:CONSOLE(10)] "r: 200", source: https://www4.sii.cl/consdcvinternetui/app.full.min.js?20242281610.js (10)
+[32124:35944:0604/000140.690:INFO:CONSOLE(10)] "r: 200", source: https://www4.sii.cl/consdcvinternetui/app.full.min.js?20242281610.js (10)
+[32124:35944:0604/000142.774:INFO:CONSOLE(10)] "r: 200", source: https://www4.sii.cl/consdcvinternetui/app.full.min.js?20242281610.js (10)
+[32124:35944:0604/000153.037:INFO:CONSOLE(10)] "r: 200", source: https://www4.sii.cl/consdcvinternetui/app.full.min.js?20242281610.js (10)
+[32124:35944:0604/000153.055:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000153.055:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000153.055:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000153.055:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000153.055:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000153.114:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000153.114:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000153.114:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000153.114:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000157.799:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000158.294:WARNING:pref_value_store.cc(271)] Expected type for safebrowsing.enabled is boolean but got string in store 5
+[32124:35944:0604/000201.171:INFO:CONSOLE(10)] "r: 200", source: https://www4.sii.cl/consdcvinternetui/app.full.min.js?20242281610.js (10)
+[32124:35944:0604/000213.363:INFO:CONSOLE(10)] "r: 200", source: https://www4.sii.cl/consdcvinternetui/app.full.min.js?20242281610.js (10)
+[32124:35944:0604/000217.369:INFO:CONSOLE(10)] "r: 200", source: https://www4.sii.cl/consdcvinternetui/app.full.min.js?20242281610.js (10)
+[32124:35944:0604/000233.424:INFO:CONSOLE(10)] "r: 200", source: https://www4.sii.cl/consdcvinternetui/app.full.min.js?20242281610.js (10)
+[32124:35944:0604/000235.617:INFO:CONSOLE(10)] "r: 200", source: https://www4.sii.cl/consdcvinternetui/app.full.min.js?20242281610.js (10)
+[32124:35944:0604/000238.271:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
